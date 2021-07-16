@@ -46,8 +46,8 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Kishore1K&repo=loficlub&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Kishore1K/Reactjs)
  -->
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Kishore1K&repo=gradientking&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Kishore1K/gradientking)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Kishore1K&repo=loficlub&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Kishore1K/loficlub)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Kishore1K&repo=gradientking&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Kishore1K/)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Kishore1K&repo=loficlub&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Kishore1K/)
 <!-- <p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Kishore1K/count.svg" />
