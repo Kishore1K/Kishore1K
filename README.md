@@ -33,22 +33,26 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
   
 
    ### 🐱My Github stats:
- ![Kishore's github stats](https://github-readme-stats.vercel.app/api?username=Kishore1K&show_icons=true&theme=radical)
+ ![Kishore's github stats](https://github-readme-stats.vercel.app/api?username=Kishore1K&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore1K&layout=compact&text_color=daf7dc&bg_color=151515)
 
 
 
-![Kishore's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kishore1K&theme=dracula) 
-   
+<!-- ![Kishore's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kishore1K&theme=dracula) 
+    -->
+## My Trending Repos 💻
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Kishore1K&repo=gradientking&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Kishore1K/Letsupgrade)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Kishore1K&repo=loficlub&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Kishore1K/javascript)
 
 
-<p> 
+<!-- <p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Kishore1K/count.svg" />
-</p>
+</p> -->
 
-  ### Blogs 🌱:
-
+<!--   ### Blogs 🌱:
+ -->
 <p align="center">
   
   
@@ -60,3 +64,5 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
 
 ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Kishore1K'></p>
+
