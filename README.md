@@ -55,15 +55,14 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
 <!--   ### Blogs 🌱:
  -->
 <p align="center">
-  ### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 </p>
 
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 
-### 😜Here's a Joke for you:
+                              ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Kishore1K'></p>
 
