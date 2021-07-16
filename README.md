@@ -40,11 +40,11 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
 
 <!-- ![Kishore's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kishore1K&theme=dracula) 
     -->
-## My Trending Repos 💻
+<!-- ## My Trending Repos 💻
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Kishore1K&repo=gradientking&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Kishore1K/Letsupgrade.in)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Kishore1K&repo=loficlub&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Kishore1K/Reactjs)
-
+ -->
 
 <!-- <p> 
   Visitor count<br>
