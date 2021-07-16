@@ -55,8 +55,8 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
 <!--   ### Blogs 🌱:
  -->
 <p align="center">
-  
-  
+  ### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
 
