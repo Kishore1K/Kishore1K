@@ -21,6 +21,10 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
   ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
   ![SCSS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+  ![JAVA](https://img.shields.io/badge/-JAVA-000000?style=flat&logo=JAVA)
+  ![React](https://img.shields.io/badge/-REACT-000000?style=flat&logo=REACT)
+
+
 
 - Some of the technologies I have worked with
 
