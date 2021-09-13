@@ -23,7 +23,7 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![JAVA](https://img.shields.io/badge/-JAVA-000000?style=flat&logo=JAVA)
   ![React](https://img.shields.io/badge/-REACT-000000?style=flat&logo=REACT)
-   ![Nodejs](https://img.shields.io/badge/-REACT-000000?style=flat&logo=NODE)
+  
 
 
 
