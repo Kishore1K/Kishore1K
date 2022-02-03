@@ -23,6 +23,8 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![JAVA](https://img.shields.io/badge/-JAVA-000000?style=flat&logo=JAVA)
   ![React](https://img.shields.io/badge/-REACT-000000?style=flat&logo=REACT)
+  ![Node](https://img.shields.io/badge/-NODE-000000?style=flat&logo=NODE)
+  
   
 
 
@@ -37,7 +39,6 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
   ![Jupyter](http://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=f37626)
   
 
-   ### 🐱My Github stats:
    
 <details>
   <summary>📊 <b><i>GitHub Stats</i></b></summary>
