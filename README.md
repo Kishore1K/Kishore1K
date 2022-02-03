@@ -51,17 +51,12 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
 <p align="center">
 
 </p>
-
-
-<details>
-  <summary>📊 <b><i>GitHub Stats</i></b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishore1K&show_icons=true&theme=gotham" alt="KISHORE's GitHub Stats" />
-</details> 
-
+ 
+<!-- 
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Kishore1K'></p>
-
+ -->
