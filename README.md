@@ -38,7 +38,12 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
   
 
    ### 🐱My Github stats:
- ![Kishore's github stats](https://github-readme-stats.vercel.app/api?username=Kishore1K&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+   
+<details>
+  <summary>📊 <b><i>GitHub Stats</i></b></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kishore1K&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="KISHORE's GitHub Stats" />
+</details> 
+ 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore1K&layout=compact&text_color=daf7dc&bg_color=151515)
 
 
@@ -47,9 +52,10 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
 
 </p>
 
+
 <details>
   <summary>📊 <b><i>GitHub Stats</i></b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishore1K&show_icons=true&theme=gotham" alt="Darsh Shah GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kishore1K&show_icons=true&theme=gotham" alt="KISHORE's GitHub Stats" />
 </details> 
 
 
