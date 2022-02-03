@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College Of Engineering](https://atme.in). 
+I'm [Kishore K](https://Kishore1K.github.io/Portpolio).  I am Doing a  B.Tech in  Computer Science  at  [ATME College Of Engineering](https://atme.in). 
 
 - 🔭 I’m currently learning Web development
 - 💬 Ask me about Web development
@@ -23,7 +23,7 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![JAVA](https://img.shields.io/badge/-JAVA-000000?style=flat&logo=JAVA)
   ![React](https://img.shields.io/badge/-REACT-000000?style=flat&logo=REACT)
-  ![Node](https://img.shields.io/badge/-NODE-000000?style=flat&logo=NODE)
+  
   
   
 
@@ -49,15 +49,3 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
 
 
 
-<p align="center">
-
-</p>
- 
-<!-- 
-
-<h1 align='center'><i>Stay awesome!</i></h1>
-
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Kishore1K'></p>
- -->
