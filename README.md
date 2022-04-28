@@ -34,7 +34,6 @@ I'm [Kishore K](https://Kishore1K.github.io/Portpolio).  I am Doing a  B.Tech in
   ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
   ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-  ![Visual Studio](http://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio&logoColor=5c2d91)
   ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007acc)
   ![Jupyter](http://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=f37626)
   
