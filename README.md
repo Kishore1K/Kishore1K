@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-I'm [Kishore K](https://Kishore1K.github.io/Portpolio).  I am Doing a  B.Tech in  Computer Science  at  [ATME College Of Engineering](https://atme.in). 
+I'm [Kishore K](http://Kishore.ninja).  I am Doing a  B.Tech in  Computer Science  at  [ATME College Of Engineering](https://atme.in). 
 
 - 🔭 I’m currently learning Web development
 - 💬 Ask me about Web development
@@ -23,6 +23,9 @@ I'm [Kishore K](https://Kishore1K.github.io/Portpolio).  I am Doing a  B.Tech in
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![JAVA](https://img.shields.io/badge/-JAVA-000000?style=flat&logo=JAVA)
   ![React](https://img.shields.io/badge/-REACT-000000?style=flat&logo=REACT)
+  ![ReactNative](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=REACT)
+  
+
   
   
   
