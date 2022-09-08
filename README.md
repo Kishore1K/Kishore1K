@@ -25,13 +25,6 @@ I'm [Kishore K](http://Kishore.ninja).  I am Doing a  B.E in  Computer Science  
   ![React](https://img.shields.io/badge/-REACT-000000?style=flat&logo=REACT)
   ![ReactNative](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=REACT)
   
-
-  
-  
-  
-
-
-
 - Some of the technologies I have worked with
 
   ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
@@ -49,5 +42,8 @@ I'm [Kishore K](http://Kishore.ninja).  I am Doing a  B.E in  Computer Science  
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore1K&layout=compact&text_color=daf7dc&bg_color=151515)
 
+<center style="text-align:center">
 
+![](https://komarev.com/ghpvc/?username=Kishore1K&color=green)
 
+</center>
