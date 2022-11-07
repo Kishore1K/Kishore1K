@@ -21,7 +21,7 @@ I'm [Kishore K](http://Kishore.ninja).  I am Doing a  B.E in  Computer Science  
   ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
   ![SCSS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-  ![JAVA](https://img.shields.io/badge/-JAVA-000000?style=flat&logo=JAVA)
+  ![JAVA](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
   ![React](https://img.shields.io/badge/-REACT-000000?style=flat&logo=REACT)
   ![ReactNative](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=REACT)
   
