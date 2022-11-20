@@ -41,9 +41,3 @@ I'm [Kishore K](http://Kishore.ninja).  I am Doing a  B.E in  Computer Science  
 </details> 
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore1K&layout=compact&text_color=daf7dc&bg_color=151515)
-
-<center style="text-align:center">
-
-![](https://komarev.com/ghpvc/?username=Kishore1K&color=green)
-
-</center>
