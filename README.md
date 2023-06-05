@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-I'm [Kishore K](http://Kishore.ninja).  I am Doing a  B.E in  Computer Science  at  [ATME College Of Engineering](https://atme.in). 
+I'm [Kishore K](http://Kishore.ninja).  
 
 - 🔭 I’m currently learning Web development
 - 💬 Ask me about Web development
