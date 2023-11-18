@@ -16,14 +16,12 @@ I'm [Kishore K](http://Kishore.ninja).
 - Languages I have used
 
   ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
   ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
-  ![SCSS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-  ![JAVA](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
   ![React](https://img.shields.io/badge/-REACT-000000?style=flat&logo=REACT)
-  ![ReactNative](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=REACT)
   
 - Some of the technologies I have worked with
 
